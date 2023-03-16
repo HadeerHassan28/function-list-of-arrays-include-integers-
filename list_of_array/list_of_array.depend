@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678718964 source:d:\prog_course\iti_3_months\oop\labs\day_5\list_of_array\list_of_array\main.cpp
+	<iostream>
+	<algorithm>
+	<array>
+
